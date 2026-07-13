@@ -2,7 +2,8 @@ body{
     background-color: #C0C0C0;
     background-image: url("assets/bg/bg-star.gif");
     background-size: repeat;
-    margin:20px;
+    margin: 20px;
+    cursor: url('assets/icon/cursor.gif'), auto;
     font-family:"Times New Roman", serif;
 }
 
