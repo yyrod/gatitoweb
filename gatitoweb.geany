@@ -26,12 +26,12 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=4
-FILE_NAME_0=4910;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Findex.html;0;4
-FILE_NAME_1=1300;CSS;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Fstyle.css;0;4
-FILE_NAME_2=0;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Fchangelog.html;0;4
-FILE_NAME_3=0;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Fdownload.html;0;4
-FILE_NAME_4=1764;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Fcredits.html;0;4
+current_page=0
+FILE_NAME_0=3837;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Findex.html;0;4
+FILE_NAME_1=1114;CSS;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Fstyle.css;0;4
+FILE_NAME_2=647;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Fchangelog.html;0;4
+FILE_NAME_3=494;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Fdownload.html;0;4
+FILE_NAME_4=357;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fyuri%2FProjects%2Fgatitoweb%2Fcredits.html;0;4
 
 [VTE]
 last_dir=/home/yuri
