@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{page.title}}</title>
+
+	<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+	 <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+</head>
+
+<body>
+
+<table class="main">
+
+    <!-- Header -->
+    <tr>
+        <td colspan="3" class="name" align="center">
+           <img src="{{ '/assets/text/logo.png' | relative_url }}" class="name">
+        </td>
+    </tr>
+
+    <!-- Body -->
+    <tr>
+
+        <!-- Menu -->
+        <td class="menu">
+
+            <a href="{{ '/index.html' | relative_url }}">Home</a>
+            <a href="{{ '/changelog.html' | relative_url }}">Changelog</a>
+            <a href="{{ '/downloads.html' | relative_url }}">Download</a>
+            <a href="{{ '/credits.html' | relative_url }}">Credits</a>
+            <a href="{{ '/blog.html' | relative_url }}">Blog</a>
+
+        </td>
+
+        <!-- Content -->
+        <td class="content">
+
+            <table class="inner">
+
+                <!-- Bar -->
+                 <tr>
+                    <td colspan="2" class="tuxs">
+                    </td>
+                 </tr>
+                <tr>
+                    <td colspan="2" class="title">
+                        <marquee><h3>{{ page.marquee }}</h3></marquee>
+                        
+                    </td>
+                    
+                </tr>
+
+                <!-- Content -->
+                <tr>
+
+                    <td class="text">
+						
+                       	{{content}}
+						<br>
+						<br>
+						<br>
+						                        
+                        <!-- HIT-COUNTER.NET CODE-->
+                            <img src="http://www.hit-counter.net/counter.php?action=count&style=ainv&padding=0&id=gatito-linux" alt="Hit counter">
+							<br>
+                        <!--END HIT-COUNTER.NET CODE-->
+
+						<img src="{{ '/assets/badges/anydamn.gif' | relative_url }}">
+						<img src="{{ '/assets/badges/cfs.gif' | relative_url }}">
+						<img src="{{ '/assets/badges/chameleonbutton.gif' | relative_url }}">
+						<img src="{{ '/assets/badges/4x3_fade.gif' | relative_url }}">
+						<img src="{{ '/assets/badges/javascriptfree.gif' | relative_url }}">
+
+
+
+                    </td>
+
+                    <td class="sidenews" align="center">
+                        <h2>Latest News:</h2>
+                        <hr>
+						<p>Currently being reworked!</p>
+                        <hr>
+
+                        <img src="{{ '/assets/icon/tux.gif' | relative_url }}" width="120px">
+                        
+
+                        
+                    </td>
+
+                </tr>
+
+            </table>
+
+        </td>
+
+    </tr>
+
+</table>
+
+</body>
+</html>

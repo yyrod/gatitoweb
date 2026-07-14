@@ -1,9 +1,9 @@
 body{
     background-color: #C0C0C0;
-    background-image: url("assets/bg/bg-star.gif");
+    background-image: url("../bg/bg-star.gif");
     background-size: repeat;
     margin: 20px;
-    cursor: url('assets/icon/cursor.gif'), auto;
+    cursor: url('../icon/cursor.gif'), auto;
     font-family:"Times New Roman", serif;
 }
 
@@ -85,13 +85,15 @@ a {
     width:25%;
 }
 
-
+.warning {
+	width: 15px;
+}
 
 .tuxs{
     border: none;
     width: 100%;
     height: 26px;
-    background-image: url("assets/icon/tux-weird.gif");
+    background-image: url("../icon/tux-weird.gif");
     background-position: 0%;
     background-repeat: repeat-x;
 }

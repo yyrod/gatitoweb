@@ -1,0 +1,11 @@
+title: Gatito Linux
+description: (un)official website for gatito linux
+
+url: ""
+baseurl: ""
+
+markdown: kramdown
+
+
+source:       ./web
+destination:  ./_site

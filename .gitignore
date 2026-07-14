@@ -1,0 +1,15 @@
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/plugin/
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.log
+*.tmp
+.sass-cache/
+*.geany
