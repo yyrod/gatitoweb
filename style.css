@@ -26,25 +26,32 @@ table{
     padding:10px;
 }
 
-.logo{
-    width:90px;
-    height:80px;
-    text-align:center;
+.name{
+    width:1024px;
+    height:256px;
 }
 
 .menu{
-    background-color: #C0C0C0;
+    background-color: white;
     border:1px solid #000;
     width:80px;
 }
 
+a {
+
+	color: red;	
+
+	
+}
+
 .menu a{
+	background-color: #FFB000;
     display:block;
     border:1px solid #000;
     margin-bottom:8px;
     padding:8px;
-    text-decoration:none;
-    color:black;
+    color: black;
+    font-weight:bold;
     text-align:center;
 }
 
@@ -53,7 +60,7 @@ table{
 }
 
 .inner{
-    background-color: #C0C0C0;
+    background-color: white;
     width:100%;
     border-collapse:collapse;
 }
@@ -66,7 +73,7 @@ table{
 
 .title{
     height:20px;
-    background-color: #dfdfdf;
+    background-color: #FFB000;
 }
 
 .text{
